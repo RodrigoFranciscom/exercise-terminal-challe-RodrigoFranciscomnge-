@@ -12,5 +12,6 @@
     	"projectType": "project",
 	"delivery": {
 		"formats": ["no_delivery"]
+	
 	}
 }
